@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    
+    background-image: url(https://th.bing.com/th/id/R.d2edb29f3f970c36aadecbb01ed0bb79?rik=z%2bAuuobpN0KNSg&riu=http%3a%2f%2fisquad.tv%2fwp-content%2fuploads%2f2018%2f08%2fNetflix-Background.jpg&ehk=Ij4PSd%2bZkTcESSlAVWoGpNmExM0fu3BgteNT6AnS9lM%3d&risl=&pid=ImgRaw&r=0);
+}
+.bot {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.bott {
+    margin-right: 7vh;
+}
+input {
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 4vh;
+    padding: 10px 18px;
+    background-color: red;
+    border-radius: 5px;
+    border: none;
+    margin-top: 7vh;
+}
+.sha {
+    background: rgba(0, 0, 0, 0.7);
+    height: 100vh;
+}
+img {
+    margin-top: 40px;
+    margin-left: 210px;
+}
+main {
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 80%;
+}
+.he {
+    margin: 12px;
+    font-size: 30px;
+}
+.he1 {
+    font-size: 31px;
+}
+.he2 {
+    margin: 25px;
+    font-size: 25px;
+}
